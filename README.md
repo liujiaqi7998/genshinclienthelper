@@ -28,6 +28,10 @@
 | mitmproxy-ca-cert.cer | mitmproxy的证书    |
 | Proxylist.txt         | 需要代理的地址     |
 
-本程序仅用于测试本地代理服务知否正常，禁止用于各种商业活动
+
+
 Grasscutter Tools 来着 jie65535 的 https://github.com/jie65535/GrasscutterCommandGenerator
+
+本程序仅用于测试本地代理服务知否正常，禁止用于各种商业活动
+
 联系邮箱:liujiaqi7998@qq.com
